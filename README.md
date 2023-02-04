@@ -2,7 +2,7 @@
 
 This is a repository of code developed in the Membrane Enzymology group of the University of Groningen for the analysis of protein diffusion in Escherichia coli cytoplasm using Simulation-based Reconstructed Diffusion (SbRD).
 
-If you are using code from this package please refer to it using the following doi :
+If you are using code from this package please refer to it using the following doi : [![DOI](https://zenodo.org/badge/597394159.svg)](https://zenodo.org/badge/latestdoi/597394159)
 
 The repository is organized into four parts :
 1. The mathematical part contains all the scripts used to find a numerical solution to the problem of finding a bouncing point inside a billiard for multiple particles with known start and end points. Particles positions are generated via simulations using Smoldyn (https://www.smoldyn.org)
